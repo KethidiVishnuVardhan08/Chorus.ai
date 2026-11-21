@@ -2,6 +2,8 @@
 
 *Turning scattered customer feedback into source-cited, revenue-ranked roadmap decisions.*
 
+**Live Application:** [https://chorus-ai-wine.vercel.app](https://chorus-ai-wine.vercel.app) · **Repository:** [https://github.com/shambhavi999/Chorus.ai](https://github.com/shambhavi999/Chorus.ai)
+
 Chorus.ai ingests 520 customer feedback signals across five channels (reviews, support tickets, call notes, screenshots, social), clusters them into a stable theme taxonomy, and ranks each theme by the revenue it puts at risk — with every insight traceable to a real customer quote. It's a working demo built to show how I think as an AI product manager, not just that I can wire up an LLM.
 
 ---
